@@ -1,7 +1,6 @@
 # SQL-Project
 Project documents
-<br/>
-Added music database 
-Uploaded questions with the query solution
-I also added schema for table relation understanding.
-<br/>
+
+Added music database <br />
+Uploaded questions with the query solution<br />
+I also added schema for table relation understanding.<br />
